@@ -1,0 +1,6 @@
+      integer nxim,nyim
+
+      parameter(nxim=200,nyim=200)
+
+      real*8 fimage(nxim,nyim),qimage(nxim,nyim),uimage(nxim,nyim)
+

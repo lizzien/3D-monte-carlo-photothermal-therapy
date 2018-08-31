@@ -1,0 +1,19 @@
+ $params
+  nphotons=1000000,
+  iseed=-1556,
+  kappa=1.000d0,
+  albedo=0.8737d0,
+  hgg=0.000d0,
+  pl=0.d0,
+  pc=0.d0,
+  sc=1.d0,
+  xmax=1.000d0,
+  ymax=1.000d0,
+  zmax=1.000d0,
+  rimage=1.d0,
+  viewthet=85.d0,
+  viewphi=0.d0,
+  lum=10.000d0,
+  b=0.250d0/
+ $
+

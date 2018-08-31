@@ -1,0 +1,7 @@
+      integer nsource
+
+      parameter(nsource=1)
+
+      real*8 xsource(nsource),ysource(nsource),zsource(nsource)
+      real*8 lsource(nsource),lumtot
+

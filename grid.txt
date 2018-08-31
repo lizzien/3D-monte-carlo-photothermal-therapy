@@ -1,0 +1,10 @@
+      integer nxg,nyg,nzg
+
+      parameter(nxg=201,nyg=201,nzg=201)
+
+      real*8 xface(nxg+1),yface(nyg+1),zface(nzg+1)
+      real*8 rhokap(nxg,nyg,nzg)
+      real*8 jmean(nxg,nyg,nzg)
+      real*8 den(nxg,nyg,nzg)
+      real*8 absorb(nxg,nyg,nzg)
+      real*8 flux(nxg)
